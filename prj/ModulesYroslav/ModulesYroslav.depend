@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1775046620 source:c:\users\0608a\desktop\bmtp-lab8-primak\prj\modulesyroslav\main.cpp
+	<cmath>
+	<stdexcept>
+
